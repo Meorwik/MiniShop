@@ -1,4 +1,4 @@
-# shop
+# MiniShop 🛍️
 Project Name: Shop
 MiniShop 🛍️
 
